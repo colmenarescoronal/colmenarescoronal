@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Luis Guillermo 👋</h1>
 
-I'm a fullstack with experience in:
+I have some experience working with
 
 - 🟦 AWS (Lambda, API Gateway, RDS, S3)
 - 🟩 Node.js, Express, Nest.js
 - 🟥 Angular, React
-- 🟧 MySQL 5.7
+- 🟧 MySQL, PostgreSQL
 - 🟪 CI/CD, Docker
 
 ---
@@ -16,13 +16,7 @@ I'm a fullstack with experience in:
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 
----
-
-### 📊 Stats
-![Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=luiscolmenares&show_icons=true&theme=tokyonight)
-
----
 
 ### 📫 Contact
-📧 **tu-correo@ejemplo.com**  
-🔗 [LinkedIn](https://linkedin.com/in/TU-LINK)
+📧 **colmenarescoronal@gmail.com**  
+🔗 [LinkedIn]([https://linkedin.com/in/TU-LINK](https://www.linkedin.com/in/luis-guillermo-colmenares-a9b5b6173/))
