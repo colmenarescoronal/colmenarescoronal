@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Luis Guillermo 👋</h1>
-<p>I'm an engineer and I love programming let me show you some of my work. ❤️</p>
+<p>I'm an engineer and I love programming. Here's some of my work. ❤️</p>
 
 ### 🚀 Technologies
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
@@ -15,4 +15,4 @@
 
 ### 📫 Contact
 📧 **colmenarescoronal@gmail.com**  
-🔗 [LinkedIn](https://linkedin.com/in/TU-LINK](https://www.linkedin.com/in/luis-guillermo-colmenares-a9b5b6173/)
+🔗 [LinkedIn](https://www.linkedin.com/in/luis-guillermo-colmenares-a9b5b6173)
